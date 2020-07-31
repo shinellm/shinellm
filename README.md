@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/shinellm/shinellm/blob/master/Humaaans_Wireframe.png" alt="Humaaans Wireframe Illustration" width=350px height=450px/>
+<img align="right" src="https://github.com/shinellm/shinellm/blob/master/Humaaans_Wireframe.png" alt="Humaaans Wireframe Illustration" width=300px height=400px/>
 
 ### Hi, I'm Shinell 👋🏾
 
