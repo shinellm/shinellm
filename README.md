@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github.com/shinellm/shinellm/blob/master/Humaaans_Wireframe.png" alt="Humaaans Wireframe Illustration" width=350px height=465px/>
+
+### Hi there 👋🏾
 
 <!--
 **shinellm/shinellm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
