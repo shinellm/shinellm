@@ -6,7 +6,7 @@ I'm a Software Engineer that likes to combine my passion for design with my dev 
 
 - 💡 I’m currently working on building a personal portfolio website and trying to create a startup that changes the job hunting process for the better.
 - 🌱 Recently, I've been learning about website hosting and scaling for heavy web-traffic.
-- 💬 Ask me about awesome UI/UX tools that help make designing layouts less stressful.
+- 💬 Ask me about awesome UI/UX tools that help make designing layouts stress-free.
 - 📫 How to reach me: Message me on [Linkedin](https://www.linkedin.com/in/shinell-manwaring/) (Will edit once my website is deployed)
 - 👾 Fun fact: I enjoy playing videos games and I'm hoping to make a small indie game.
 
