@@ -8,7 +8,7 @@ I'm a Software Engineer that likes to combine my passion for design with my dev 
 - 🌱 Recently, I've been learning about website hosting and scaling for heavy web-traffic.
 - 💬 Ask me about awesome UI/UX tools that help make designing layouts stress-free.
 - 📫 How to reach me: Message me on [Linkedin](https://www.linkedin.com/in/shinell-manwaring/) (Look out for my website)
-- 👾 Fun fact: I enjoy playing videos games and I'm hoping to make an indie game.
+- 👾 Fun fact: I enjoy playing videos games and I'm hoping to make a small indie game.
 
 <!--
 **shinellm/shinellm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
